@@ -1,4 +1,9 @@
 ## OLA AMIGOS 👋
+<h1>Sobre mim<br></h1> 
+💼Emprego: Nenhum so estudando<br>
+🏳️‍🌈Pronums: ELE/DELE<br>
+🏫Aprendendo: c#, python, java, html, php, css, Mysql e angular<br>
+
 <div align="center">
   <a href="https://github.com/retr0lbb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=retr0lbb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
