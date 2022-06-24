@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/retr0lbb">
-  <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="500px" img width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&langs_count=7&theme=graywhite"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="retr0-cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
