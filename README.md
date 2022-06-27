@@ -1,13 +1,12 @@
 ## OLA AMIGOS 👋
 <h1>Sobre mim<br></h1> 
 💼Emprego: Nenhum so estudando<br>
-🏳️‍🌈Pronums: ELE/DELE<br>
 🏫Aprendendo: c#, python, java, html, php, css, Mysql e angular<br>
 ================================================================================================================================================================================
 
 <div align="center">
   <a href="https://github.com/retr0lbb">
-  <img height="500px" img width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&langs_count=7&theme=graywhite"/>
+  <img height="500px" img width="2000px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="retr0-cs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
