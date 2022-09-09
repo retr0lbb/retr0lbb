@@ -1,7 +1,7 @@
 ## OLA AMIGOS 👋
 <h1>Sobre mim<br></h1> 
 💼Emprego: Nenhum so estudando<br>
-🏫Aprendendo: c#, python, java, html, php, css, Mysql e angular<br>
+🏫Aprendendo: c#, python, java, html, php, css, Mysql, angular e assembly<br>
 ================================================================================================================================================================================
 
 <div align="center">
