@@ -2,7 +2,7 @@
 <h1>Sobre mim<br></h1> 
 💼Emprego: Nenhum so estudando<br>
 🏫Aprendendo: c#, python, java, html, php, css, Mysql, angular e assembly<br>
-================================================================================================================================================================================
+<bs>
 
 <div align="center">
   <a href="https://github.com/retr0lbb">
