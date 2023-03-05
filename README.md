@@ -1,7 +1,7 @@
 ## OLA AMIGOS 👋
 <h1>Sobre mim<br></h1> 
 💼Emprego: Nenhum so estudando<br>
-🏫Aprendendo: c#, python, java, html, php, css, Mysql, angular e assembly<br>
+🏫Aprendendo: c#, python, java, html, php, css, Mysql, js, unity and more...<br>
 <bs>
 
 <div align="center">
@@ -14,5 +14,5 @@
   <img align="center" alt="retr0-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="retr0-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="retr0-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="retr0-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+   <img align="center" alt="retr0-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
 </div>
