@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=40&pause=1000&center=true&width=1000&height=65&lines=Hello%2C+My+name+is+Henrique;I'm+Studing++System+development;And+I'm+a+web+developer;Be+welcome+%3A+%5D" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=40&pause=1000&center=true&width=1000&height=65&color=02A3A4&lines=Hello%2C+My+name+is+Henrique;I'm+Studing++System+development;And+I'm+a+web+developer;Be+welcome+%3A+%5D" alt="Typing SVG" /></a>
  </div>
  
  <div align="center">
@@ -53,8 +53,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=0D1117&logoColor=3DDC84)
 
 </div>
-
-## About Me:
+<div align="center"><h2>About Me:</h2></div>
 
 -My name is Henrique Barbosa Sampaio, I'm 17 years old, i live in São Paulo, Brazil.<br>
 -📚 I'm current learning: Data structures, Packge maneger, Rawg api and others.<br>
@@ -64,7 +63,7 @@
 
 
 <div align="center">
-## Contact Me:
+                   <h2>Contact Me:</h2>
 
 <a href="mailto:retr0lbb@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/lilhenry_trapstar?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
