@@ -59,7 +59,7 @@
 -📚 I'm current learning: Data structures, Packge maneger, Rawg api and others.<br>
 -💬 Ask me about: **HTML, JS, CSS, Unity**.
 -🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies
--🐺 Fun fact: I'm an anthropomorphism fan
+-🐺 Fun fact: I'm a Furry
 
 
 <div align="center">
