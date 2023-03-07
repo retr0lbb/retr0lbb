@@ -57,18 +57,18 @@
 
 -My name is Henrique Barbosa Sampaio, I'm 17 years old, i live in São Paulo, Brazil.<br>
 -📚 I'm current learning: Data structures, Packge maneger, Rawg api and others.<br>
--💬 Ask me about: **HTML, JS, CSS, Unity**.
--🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies
--🐺 Fun fact: I'm a Furry
+-💬 Ask me about: **HTML, JS, CSS, Unity**.<br>
+-🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies<br>
+-🐺 Fun fact: I'm a Furry<br>
 
 
 <div align="center">
                    <h2>Contact Me:</h2>
 
-<a href="mailto:retr0lbb@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/lilhenry_trapstar?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/henrique-barbosa-b04240227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:retr0lbb@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/lilhenry_trapstar?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/henrique-barbosa-b04240227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>&nbsp;&nbsp;
 
 </div>
                                                                                                                                               
