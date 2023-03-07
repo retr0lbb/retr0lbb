@@ -71,3 +71,5 @@
 <a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 </div>
+                                                                                                                                              
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
