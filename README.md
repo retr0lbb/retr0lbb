@@ -61,3 +61,14 @@
 -💬 Ask me about: **HTML, JS, CSS, Unity**.
 -🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies
 -🐺 Fun fact: I'm an anthropomorphism fan
+
+
+<div align="center">
+## Contact Me:
+
+<a href="mailto:retr0lbb@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/lilhenry_trapstar?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/henrique-barbosa-b04240227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/seewey"><img src="https://img.shields.io/badge/Telegram-%233498DB.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+</div>
