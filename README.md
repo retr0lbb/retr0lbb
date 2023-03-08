@@ -18,27 +18,33 @@
 ## ⚙️Skills⚙️
 
 ### Major Skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=0D1117&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&labelColor=0D1117&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=white)
-
-
+ ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=F7DF1E)
+ ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)
+ ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&labelColor=0D1117&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)
+ ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&labelColor=0D1117&logoColor=white)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=0D1117&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=white)
+                   
+                   
 ### Minor Skills:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=0D1117&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=0D1117&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=777BB4)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum-alliance&labelColor=0D1117&logoColor=6DB33F)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&labelColor=0D1117&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=0D1117&logoColor=EE4C2C)
+                   
+ ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=white)
+ ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&logoColor=white)
+ ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&labelColor=0D1117&logoColor=white)
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)
+ ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=0D1117&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
+ ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=777BB4)
+ ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum-alliance&labelColor=0D1117&logoColor=6DB33F)
+ ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&labelColor=0D1117&logoColor=white)
+ ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=0D1117&logoColor=EE4C2C)
+ ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=ai&labelColor=0D1117&logoColor=white)
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=0D1117&logoColor=white)
+ ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=white)
+ ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&labelColor=0D1117&logoColor=white)
+
 
 
 ### IDEs:
