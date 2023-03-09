@@ -49,13 +49,14 @@
 ### IDEs:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=0D1117&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=0D1117&logoColor=3DDC84)
 
 ### Programs and Game engines:
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&labelColor=0D1117&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&labelColor=0D1117&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&labelColor=0D1117&logoColor=F5792A)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=31A8FF)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=0D1117&logoColor=3DDC84)
+
 
 </div>
 <div align="center"><h2>About Me:</h2></div>
