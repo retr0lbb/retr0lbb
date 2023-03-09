@@ -40,7 +40,6 @@
  ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum-alliance&labelColor=0D1117&logoColor=6DB33F)
  ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&labelColor=0D1117&logoColor=white)
  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=0D1117&logoColor=EE4C2C)
- ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=ai&labelColor=0D1117&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=0D1117&logoColor=white)
  ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=white)
  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&labelColor=0D1117&logoColor=white)
