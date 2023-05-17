@@ -19,38 +19,8 @@
 
 ## ⚙️Skills⚙️
 
-### Major Skills:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,git,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=github,react,threejs,arduino,js,html,css,cs,git,nodejs,mysql,php,powershell,visualstudio,vscode,unity,blender,photoshop)](https://skillicons.dev)
                    
-                   
-### Minor Skills:
-                   
- ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=white)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&logoColor=white)
- ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&labelColor=0D1117&logoColor=white)
- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=61DAFB)
- ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=0D1117&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&labelColor=0D1117&logoColor=777BB4)
- ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum-alliance&labelColor=0D1117&logoColor=6DB33F)
- ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&labelColor=0D1117&logoColor=white)
- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&labelColor=0D1117&logoColor=EE4C2C)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&labelColor=0D1117&logoColor=white)
- ![CMD](https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&labelColor=0D1117&logoColor=white)
- ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&labelColor=0D1117&logoColor=white)
-
-
-
-### IDEs:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&labelColor=0D1117&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=007ACC)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&labelColor=0D1117&logoColor=3DDC84)
-
-### Programs and Game engines:
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&labelColor=0D1117&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&labelColor=0D1117&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&labelColor=0D1117&logoColor=F5792A)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117&logoColor=31A8FF)
 
 
 </div>
@@ -76,5 +46,3 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                                                                                                               
 </div>
-
-![snake gif](https://github.com/retr0lbb/retr0lbb/blob/output/github-contribution-grid-snake.gif)
