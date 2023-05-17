@@ -20,10 +20,11 @@
 ## ⚙️Skills⚙️
 
 ### Major Skills:
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,git,github)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,nodejs,git,github,react,threejs)](https://skillicons.dev)
                    
                    
 ### Minor Skills:
+                   
                    
  ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&labelColor=0D1117&logoColor=white)
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=0D1117&logoColor=white)
