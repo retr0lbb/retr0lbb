@@ -13,7 +13,7 @@
   </div>
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=retr0lbb&theme=react&hide_border=true&hide_title=true&area=true&bg_color=0D1117)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=react&hide_border=true&hide_title=true&area=true&bg_color=0D1117)
 
 <div align="center">
 
