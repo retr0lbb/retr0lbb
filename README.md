@@ -26,11 +26,11 @@
 </div>
 <div align="center"><h2>About Me:</h2></div>
 
--My name is Henrique Barbosa Sampaio, I'm 17 years old, i live in São Paulo, Brazil.<br>
--📚 I'm current learning: Data structures, Package Manager, Rawg api and others.<br>
--💬 Ask me about: **HTML, JS, CSS, Unity**.<br>
--🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies<br>
--🐺 Fun fact: I'm a Furry<br>
+- My name is Henrique Barbosa Sampaio, I'm 17 years old, i live in São Paulo, Brazil.<br>
+- 📚 I'm current learning: Data structures, Package Manager, Rawg api and others.<br>
+- 💬 Ask me about: **HTML, JS, CSS, Unity**.<br>
+- 🎮 Hobbies: Play games, Program, Create games, Play Magic the gathering, See animes and movies<br>
+- 🐺 Fun fact: I'm a Furry<br>
 
 
 <div align="center">
