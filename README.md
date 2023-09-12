@@ -33,7 +33,13 @@
 
 <div align="left">
 
+
+<div align="center">
+
 ## My name is Henrique Barbosa
+ 
+</div>
+
 
 I live in São Paulo, Brazil. Im 18 years old and start coding since i was 12y below there is a list of thing that can interest you
 
