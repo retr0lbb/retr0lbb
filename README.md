@@ -4,6 +4,8 @@
 
 ### Fullstack Web Developer · Brazil
 
+#### Currently open to work and looking for my first professional opportunity in tech.
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://henrique-barbosa.vercel.app/pt-BR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barbosa-sampaio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.barbosa.sampaio@gmail.com)
@@ -11,8 +13,8 @@
 
 </div>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
+> [!TIP]
+> ### Clean code is just code you haven’t had time to mess up yet.
 
 
 ## About Me
@@ -38,7 +40,6 @@ I enjoy picking up new languages and paradigms — so this list is always growin
 
 My goal is to land my first professional role in tech, where I can contribute meaningfully from day one and grow alongside experienced developers. I'm a fast learner, a collaborative teammate, and genuinely excited about the craft of building software.
 
----
 
 ## 📊 Stats
 
@@ -51,7 +52,6 @@ My goal is to land my first professional role in tech, where I can contribute me
 
 </div>
 
----
 
 <div align="center">
 
