@@ -1,39 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=header"/>
+<div align="center">
+
+# Hey there, I'm Henrique Barbosa 👋
+
+### Fullstack Web Developer · Brazil 🇧🇷
+
+> [!NOTE]
+> 🌐 Building things for the web — and occasionally breaking them beautifully.
+> Currently **open to work** and looking for my first professional opportunity in tech.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://henrique-barbosa.vercel.app/pt-BR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barbosa-sampaio/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.barbosa.sampaio@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999429345)
+
+</div>
+
+
+## About Me
+
+I'm a fullstack developer from Brazil with a strong focus on **web applications** — but my curiosity doesn't stop there. I've worked across **IoT**, **mobile**, and **AI automation**, always chasing what's next.
+
+I'm currently open to new opportunities. If any of my projects catch your eye, I'd love to connect — don't hesitate to reach out through any of the links above.
+
+
+## 🧰 Tech Stack
+
+The tools I reach for most:
+
+[![My Skills](https://skillicons.dev/icons?i=ts,java,py,nodejs,postgres,nextjs,prisma,arduino,github,gcp,docker,nestjs)](https://skillicons.dev)
+
+> **TypeScript · Java · Python · Node.js · PostgreSQL · Next.js**
+> **Prisma · Arduino · GitHub · GCP · Docker · NestJS**
+
+I enjoy picking up new languages and paradigms — so this list is always growing.
+
+
+## 🎯 What I'm Looking For
+
+My goal is to land my first professional role in tech, where I can contribute meaningfully from day one and grow alongside experienced developers. I'm a fast learner, a collaborative teammate, and genuinely excited about the craft of building software.
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
-# Hi I'm Henrique Barbosa 👋
-<a href="mailto:retr0lbb@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
-<img alt="Static Badge" src="https://img.shields.io/badge/portifolio-white?style=for-the-badge&logo=vercel&logoColor=e9ecef&labelColor=212529&color=212529&link=https%3A%2F%2Fportifolio-v5.vercel.app%2F">
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/henrique-barbosa-b04240227"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
+[![retr0lbb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-<div align="left">
-
-> Hello I'm a Fullstack developer, I work with websites applications and web servers. I mostly program in Typescript but I have worked with Rust, C# and other programming languages as well
-
-### My skills...
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,github,rust)](https://skillicons.dev)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retr0lbb&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
+---
 
-![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=react-dark&&hide_border=false&area=true&hide_title=false&bg_color=212529&color=adb5bd&line=dee2e6&area_color=dee2e6&grid=false&radius=16&custom_title=Estatisticas%20para%20Nerds)
+<div align="center">
 
-<div align="left">
+*Thanks for stopping by. Now go build something cool. 🚀*
 
-   # 🧙 About me
-   Greatings, my name is Henrique, I like a lot of things, see the list:
-
-   ### 🗺️ Location - São Paulo, Brazil.
-   ### 🎮 Hobbies - Games, Anime, Cards, Pixelart
-   ### 🤫 Secret - I'm a furry 🦊 see my [X](https://twitter.com/Morro_do_alema)
-</div>
-                                                                                              
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer"/>
-                                                                                                              
 </div>
