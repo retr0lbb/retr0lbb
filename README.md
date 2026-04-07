@@ -2,13 +2,10 @@
 
 # Hey there, I'm Henrique Barbosa 👋
 
-### Fullstack Web Developer · Brazil 🇧🇷
+### Fullstack Web Developer · Brazil
 
 > [!NOTE]
-> 🌐 Building things for the web — and occasionally breaking them beautifully.
-> Currently **open to work** and looking for my first professional opportunity in tech.
-
-<br/>
+> Useful information that users should know, even when skimming content.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://henrique-barbosa.vercel.app/pt-BR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barbosa-sampaio/)
