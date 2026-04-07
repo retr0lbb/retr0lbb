@@ -4,15 +4,15 @@
 
 ### Fullstack Web Developer · Brazil
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://henrique-barbosa.vercel.app/pt-BR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barbosa-sampaio/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrique.barbosa.sampaio@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999429345)
 
 </div>
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 
 ## About Me
