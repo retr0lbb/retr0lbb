@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### Clean code is just code you haven’t had time to mess up yet.
+> ### \Clean code is just code you haven’t had time to mess up yet.
 
 
 ## About Me
@@ -47,8 +47,6 @@ My goal is to land my first professional role in tech, where I can contribute me
 
 [![retr0lbb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=retr0lbb&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=retr0lbb&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -58,3 +56,5 @@ My goal is to land my first professional role in tech, where I can contribute me
 *Thanks for stopping by. Now go build something cool. 🚀*
 
 </div>
+
+![Views](https://komarev.com/ghpvc/?username=retr0lbb)
