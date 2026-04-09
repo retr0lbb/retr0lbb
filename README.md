@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### \Clean code is just code you haven’t had time to mess up yet.
+> ### Clean code is just code you haven’t had time to mess up yet.
 
 
 ## About Me
