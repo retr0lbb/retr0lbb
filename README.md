@@ -30,7 +30,7 @@ The tools I reach for most:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,java,py,nodejs,postgres,nextjs,prisma,arduino,github,gcp,docker,nestjs)](https://skillicons.dev)
 
-> **TypeScript · Java · Python · Node.js · PostgreSQL · Next.js**
+> **TypeScript · Java · Python · Node.js · PostgreSQL · Next.js ·**
 > **Prisma · Arduino · GitHub · GCP · Docker · NestJS**
 
 I enjoy picking up new languages and paradigms — so this list is always growing.
