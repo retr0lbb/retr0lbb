@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> My worflow have failed if you can read this. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Computers are deterministic. Projects are not. <!-- /QUOTE -->
 
 
 ## About Me
