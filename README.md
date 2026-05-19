@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Computers are deterministic. Projects are not. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The prettier the UI, the uglier the backend. <!-- /QUOTE -->
 
 
 ## About Me
