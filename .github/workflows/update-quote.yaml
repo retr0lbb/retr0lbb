@@ -1,0 +1,53 @@
+name: Update Dev Quote
+
+on:
+  schedule:
+    - cron: '0 12 */3 * *' # Roda a cada 3 dias ao meio-dia UTC
+  workflow_dispatch:        # Permite rodar manualmente pela UI do GitHub
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update quote in README
+        run: |
+          # Lê o JSON e escolhe uma frase aleatória
+          QUOTE=$(python3 -c "
+          import json, random
+          with open('quotes/quotes.json') as f:
+              data = json.load(f)
+          print(random.choice(data['quotes']))
+          ")
+
+          echo "Frase escolhida: $QUOTE"
+
+          # Substitui apenas a frase entre as tags <!-- QUOTE --> e <!-- /QUOTE -->
+          python3 -c "
+          import re
+          with open('README.md', 'r') as f:
+              content = f.read()
+
+          updated = re.sub(
+              r'<!-- QUOTE -->.*?<!-- /QUOTE -->',
+              '<!-- QUOTE --> $QUOTE <!-- /QUOTE -->',
+              content
+          )
+
+          with open('README.md', 'w') as f:
+              f.write(updated)
+          "
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update dev quote 💬"
+          git push

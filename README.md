@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### Clean code is just code you haven’t had time to mess up yet.
+> ### <!-- QUOTE --> My worflow have failed if you can read this. <!-- /QUOTE -->
 
 
 ## About Me
@@ -26,14 +26,14 @@ I'm currently open to new opportunities. If any of my projects catch your eye, I
 
 ## 🧰 Tech Stack
 
-The tools I reach for most:
+The tools I use the most:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,java,py,nodejs,postgres,nextjs,prisma,arduino,github,gcp,docker,nestjs,rust)](https://skillicons.dev)
 
 > **TypeScript · Java · Python · Node.js · PostgreSQL · Next.js ·**
 > **Prisma · Arduino · GitHub · GCP · Docker · NestJS · Rust**
 
-I enjoy picking up new languages and paradigms — so this list is always growing.
+I enjoy picking up new languages and tecnologies — so this list is always growing.
 
 
 ## 🎯 What I'm Looking For
