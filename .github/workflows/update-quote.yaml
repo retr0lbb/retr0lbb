@@ -21,7 +21,7 @@ jobs:
           # Lê o JSON e escolhe uma frase aleatória
           QUOTE=$(python3 -c "
           import json, random
-          with open('quotes/quotes.json') as f:
+          with open('files/quotes.json') as f:
               data = json.load(f)
           print(random.choice(data['quotes']))
           ")
