@@ -11,6 +11,7 @@ jobs:
 
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - name: Checkout repository
@@ -18,7 +19,6 @@ jobs:
 
       - name: Update quote in README
         run: |
-          # Lê o JSON e escolhe uma frase aleatória
           QUOTE=$(python3 -c "
           import json, random
           with open('files/quotes.json') as f:
@@ -28,7 +28,6 @@ jobs:
 
           echo "Frase escolhida: $QUOTE"
 
-          # Substitui apenas a frase entre as tags <!-- QUOTE --> e <!-- /QUOTE -->
           python3 -c "
           import re
           with open('README.md', 'r') as f:
@@ -44,10 +43,16 @@ jobs:
               f.write(updated)
           "
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git diff --cached --quiet || git commit -m "chore: update dev quote 💬"
-          git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update dev quote 💬"
+          branch: chore/update-dev-quote
+          delete-branch: true
+          title: "chore: update dev quote 💬"
+          body: |
+            Atualização automática da frase do README.
+
+            > Gerado pelo workflow **Update Dev Quote** 🤖
+          labels: automated
