@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The cloud is just someone else’s computer. <!-- /QUOTE -->
+> ### <!-- QUOTE --> There’s no place like 127.0.0.1 <!-- /QUOTE -->
 
 
 ## About Me
