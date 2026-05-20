@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The prettier the UI, the uglier the backend. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The cloud is just someone else’s computer. <!-- /QUOTE -->
 
 
 ## About Me
