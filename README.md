@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> There’s no place like 127.0.0.1 <!-- /QUOTE -->
+> ### <!-- QUOTE --> The bug was there for emotional support. <!-- /QUOTE -->
 
 
 ## About Me
