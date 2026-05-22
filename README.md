@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The bug was there for emotional support. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Code reviews are cheaper than therapy. <!-- /QUOTE -->
 
 
 ## About Me
