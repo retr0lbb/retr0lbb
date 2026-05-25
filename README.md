@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Code reviews are cheaper than therapy. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Coding late at night feels faster. <!-- /QUOTE -->
 
 
 ## About Me
