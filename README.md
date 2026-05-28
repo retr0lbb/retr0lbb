@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Coding late at night feels faster. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Never underestimate a developer with production access. <!-- /QUOTE -->
 
 
 ## About Me
