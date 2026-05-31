@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Never underestimate a developer with production access. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The deadline arrives faster than the optimization. <!-- /QUOTE -->
 
 
 ## About Me
