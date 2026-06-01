@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The deadline arrives faster than the optimization. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Programming is thinking, not typing. <!-- /QUOTE -->
 
 
 ## About Me
