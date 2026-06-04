@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Programming is thinking, not typing. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Programming teaches patience through suffering. <!-- /QUOTE -->
 
 
 ## About Me
