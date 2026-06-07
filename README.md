@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Programming teaches patience through suffering. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The code compiles. The problem is now philosophical. <!-- /QUOTE -->
 
 
 ## About Me
