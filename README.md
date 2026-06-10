@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The code compiles. The problem is now philosophical. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every bug starts with confidence. <!-- /QUOTE -->
 
 
 ## About Me
