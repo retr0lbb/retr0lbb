@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every bug starts with confidence. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Behind every great app is a developer questioning life choices. <!-- /QUOTE -->
 
 
 ## About Me
