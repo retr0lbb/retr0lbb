@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Behind every great app is a developer questioning life choices. <!-- /QUOTE -->
+> ### <!-- QUOTE --> A green test suite feels illegal. <!-- /QUOTE -->
 
 
 ## About Me
