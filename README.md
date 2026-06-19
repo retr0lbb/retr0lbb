@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> A green test suite feels illegal. <!-- /QUOTE -->
+> ### <!-- QUOTE --> There are no solutions, only trade-offs. <!-- /QUOTE -->
 
 
 ## About Me
