@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> There are no solutions, only trade-offs. <!-- /QUOTE -->
+> ### <!-- QUOTE --> An API without docs is a puzzle game. <!-- /QUOTE -->
 
 
 ## About Me
