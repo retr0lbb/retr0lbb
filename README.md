@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> An API without docs is a puzzle game. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every refactor begins with courage. <!-- /QUOTE -->
 
 
 ## About Me
