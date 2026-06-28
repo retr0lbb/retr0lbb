@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every refactor begins with courage. <!-- /QUOTE -->
+> ### <!-- QUOTE --> It works on my machine. <!-- /QUOTE -->
 
 
 ## About Me
