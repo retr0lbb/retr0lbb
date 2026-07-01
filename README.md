@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> It works on my machine. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Good architecture hides chaos. <!-- /QUOTE -->
 
 
 ## About Me
