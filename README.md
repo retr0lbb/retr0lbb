@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Good architecture hides chaos. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Refactoring is rewriting your own mistakes professionally. <!-- /QUOTE -->
 
 
 ## About Me
