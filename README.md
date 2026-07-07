@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Refactoring is rewriting your own mistakes professionally. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Good code survives bad days. <!-- /QUOTE -->
 
 
 ## About Me
