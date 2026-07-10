@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Good code survives bad days. <!-- /QUOTE -->
+> ### <!-- QUOTE --> There is no bug-free software, only undiscovered features. <!-- /QUOTE -->
 
 
 ## About Me
