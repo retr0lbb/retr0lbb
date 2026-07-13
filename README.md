@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> There is no bug-free software, only undiscovered features. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The bug was there for emotional support. <!-- /QUOTE -->
 
 
 ## About Me
