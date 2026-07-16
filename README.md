@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The bug was there for emotional support. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Simplicity scales better than cleverness. <!-- /QUOTE -->
 
 
 ## About Me
