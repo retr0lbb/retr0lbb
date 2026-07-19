@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Simplicity scales better than cleverness. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Programming teaches patience through suffering. <!-- /QUOTE -->
 
 
 ## About Me
