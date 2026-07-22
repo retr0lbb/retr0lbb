@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Programming teaches patience through suffering. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The best framework is understanding fundamentals. <!-- /QUOTE -->
 
 
 ## About Me
