@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Never trust a silent server. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Programming is organized panic. <!-- /QUOTE -->
 
 
 ## About Me
