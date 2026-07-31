@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Programming is organized panic. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The terminal knows all your secrets. <!-- /QUOTE -->
 
 
 ## About Me
