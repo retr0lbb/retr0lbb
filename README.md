@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The terminal knows all your secrets. <!-- /QUOTE -->
+> ### <!-- QUOTE --> A deploy without rollback is optimism. <!-- /QUOTE -->
 
 
 ## About Me
