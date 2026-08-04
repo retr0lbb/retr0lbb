@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> A deploy without rollback is optimism. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The real feature was the bugs we made along the way. <!-- /QUOTE -->
 
 
 ## About Me
