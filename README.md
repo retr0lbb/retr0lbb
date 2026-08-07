@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The real feature was the bugs we made along the way. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every line removed is performance gained. <!-- /QUOTE -->
 
 
 ## About Me
