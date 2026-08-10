@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every line removed is performance gained. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Technical debt collects emotional interest. <!-- /QUOTE -->
 
 
 ## About Me
