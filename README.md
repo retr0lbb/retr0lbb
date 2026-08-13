@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Technical debt collects emotional interest. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every solved bug creates three new ideas. <!-- /QUOTE -->
 
 
 ## About Me
