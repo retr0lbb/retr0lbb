@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every solved bug creates three new ideas. <!-- /QUOTE -->
+> ### <!-- QUOTE --> There’s no place like 127.0.0.1 <!-- /QUOTE -->
 
 
 ## About Me
