@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> There’s no place like 127.0.0.1 <!-- /QUOTE -->
+> ### <!-- QUOTE --> Git knows what you did last summer. <!-- /QUOTE -->
 
 
 ## About Me
