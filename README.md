@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Git knows what you did last summer. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The terminal knows all your secrets. <!-- /QUOTE -->
 
 
 ## About Me
