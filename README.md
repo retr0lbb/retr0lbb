@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The terminal knows all your secrets. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The cloud is just someone else’s computer. <!-- /QUOTE -->
 
 
 ## About Me
