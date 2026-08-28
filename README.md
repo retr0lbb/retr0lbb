@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The cloud is just someone else’s computer. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Never trust a silent server. <!-- /QUOTE -->
 
 
 ## About Me
