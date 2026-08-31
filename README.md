@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Never trust a silent server. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The best framework is understanding fundamentals. <!-- /QUOTE -->
 
 
 ## About Me
