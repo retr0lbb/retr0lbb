@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The best framework is understanding fundamentals. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every senior developer was once confused too. <!-- /QUOTE -->
 
 
 ## About Me
