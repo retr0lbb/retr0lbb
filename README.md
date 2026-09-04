@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every senior developer was once confused too. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The stack trace is trying its best. <!-- /QUOTE -->
 
 
 ## About Me
