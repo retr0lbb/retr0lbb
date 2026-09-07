@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The stack trace is trying its best. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Broken builds build character. <!-- /QUOTE -->
 
 
 ## About Me
