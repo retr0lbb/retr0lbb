@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Broken builds build character. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Hope is not a backup strategy. <!-- /QUOTE -->
 
 
 ## About Me
