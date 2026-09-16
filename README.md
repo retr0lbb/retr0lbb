@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Hope is not a backup strategy. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Great software feels obvious after years of work. <!-- /QUOTE -->
 
 
 ## About Me
