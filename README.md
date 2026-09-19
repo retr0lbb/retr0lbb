@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Great software feels obvious after years of work. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Git knows what you did last summer. <!-- /QUOTE -->
 
 
 ## About Me
