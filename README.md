@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Git knows what you did last summer. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Programming is thinking, not typing. <!-- /QUOTE -->
 
 
 ## About Me
