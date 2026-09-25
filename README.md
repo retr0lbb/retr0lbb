@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Programming is thinking, not typing. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Nothing inspires fear like legacy code. <!-- /QUOTE -->
 
 
 ## About Me
