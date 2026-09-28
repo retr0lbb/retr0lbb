@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Nothing inspires fear like legacy code. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The compiler is your brutally honest friend. <!-- /QUOTE -->
 
 
 ## About Me
