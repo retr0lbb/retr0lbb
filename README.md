@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The compiler is your brutally honest friend. <!-- /QUOTE -->
+> ### <!-- QUOTE --> A developer’s natural habitat is unfinished side projects. <!-- /QUOTE -->
 
 
 ## About Me
