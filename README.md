@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> A developer’s natural habitat is unfinished side projects. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Coding is the art of breaking problems into smaller problems. <!-- /QUOTE -->
 
 
 ## About Me
