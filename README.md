@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Coding is the art of breaking problems into smaller problems. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Good architecture hides chaos. <!-- /QUOTE -->
 
 
 ## About Me
