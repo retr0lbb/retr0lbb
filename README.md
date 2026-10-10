@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Good architecture hides chaos. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Computers are deterministic. Projects are not. <!-- /QUOTE -->
 
 
 ## About Me
