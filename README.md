@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Computers are deterministic. Projects are not. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Coffee is a dependency. <!-- /QUOTE -->
 
 
 ## About Me
