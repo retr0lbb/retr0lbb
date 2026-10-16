@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Coffee is a dependency. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The CPU executes. The developer improvises. <!-- /QUOTE -->
 
 
 ## About Me
