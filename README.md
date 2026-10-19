@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The CPU executes. The developer improvises. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Sometimes the solution is deleting everything and starting over. <!-- /QUOTE -->
 
 
 ## About Me
