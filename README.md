@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Sometimes the solution is deleting everything and starting over. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Computers follow instructions, not intentions. <!-- /QUOTE -->
 
 
 ## About Me
