@@ -23,6 +23,7 @@ I'm a fullstack developer from Brazil with a strong focus on **web applications*
 
 I'm currently open to new opportunities. If any of my projects catch your eye, I'd love to connect — don't hesitate to reach out through any of the links above.
 
+![AniList Metrics](./metrics.plugin.anilist.svg)
 
 ## 🧰 Tech Stack
 
