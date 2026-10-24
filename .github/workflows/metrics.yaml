@@ -1,0 +1,25 @@
+name: Metrics AniList
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza uma vez por dia
+  workflow_dispatch: # Permite rodar manualmente na aba Actions
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.anilist.svg
+          
+          base: ""
+          
+          # Plugin AniList
+          plugin_anilist: yes
+          plugin_anilist_user: retr0men
+          plugin_anilist_sections: favorites, characters
+          plugin_anilist_limit: 4
+          plugin_anilist_limit_characters: 8
