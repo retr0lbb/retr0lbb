@@ -45,8 +45,7 @@ My goal is to land my first professional role in tech, where I can contribute me
 
 <div align="center">
 
-[![retr0lbb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=retr0lbb&theme=github-compact&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=retr0lbb&theme=great-gatsby&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats)
 
 </div>
 
