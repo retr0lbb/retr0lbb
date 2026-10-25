@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Computers follow instructions, not intentions. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The senior developer’s superpower is reading errors calmly. <!-- /QUOTE -->
 
 
 ## About Me
