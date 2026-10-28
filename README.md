@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The senior developer’s superpower is reading errors calmly. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every refactor begins with courage. <!-- /QUOTE -->
 
 
 ## About Me
