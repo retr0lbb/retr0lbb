@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every refactor begins with courage. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every line removed is performance gained. <!-- /QUOTE -->
 
 
 ## About Me
