@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every line removed is performance gained. <!-- /QUOTE -->
+> ### <!-- QUOTE --> If users notice your infrastructure, something went wrong. <!-- /QUOTE -->
 
 
 ## About Me
