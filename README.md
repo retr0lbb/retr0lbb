@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> If users notice your infrastructure, something went wrong. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Code first. Regret later. <!-- /QUOTE -->
 
 
 ## About Me
