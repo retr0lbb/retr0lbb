@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Code first. Regret later. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Backend developers do it asynchronously. <!-- /QUOTE -->
 
 
 ## About Me
