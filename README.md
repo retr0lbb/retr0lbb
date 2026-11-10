@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Backend developers do it asynchronously. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The best framework is understanding fundamentals. <!-- /QUOTE -->
 
 
 ## About Me
