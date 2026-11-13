@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The best framework is understanding fundamentals. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Documentation is a love letter to your future self. <!-- /QUOTE -->
 
 
 ## About Me
