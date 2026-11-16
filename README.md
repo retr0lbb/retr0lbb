@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Documentation is a love letter to your future self. <!-- /QUOTE -->
+> ### <!-- QUOTE --> The best developers Google everything. <!-- /QUOTE -->
 
 
 ## About Me
