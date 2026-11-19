@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> The best developers Google everything. <!-- /QUOTE -->
+> ### <!-- QUOTE --> First make it work. Then make it fast. <!-- /QUOTE -->
 
 
 ## About Me
