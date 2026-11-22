@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> First make it work. Then make it fast. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Coding late at night feels faster. <!-- /QUOTE -->
 
 
 ## About Me
