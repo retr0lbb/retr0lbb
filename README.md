@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Coding late at night feels faster. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Every line of code is a future maintenance task. <!-- /QUOTE -->
 
 
 ## About Me
