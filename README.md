@@ -14,7 +14,7 @@
 </div>
 
 > [!TIP]
-> ### <!-- QUOTE --> Every line of code is a future maintenance task. <!-- /QUOTE -->
+> ### <!-- QUOTE --> Automation is self-respect. <!-- /QUOTE -->
 
 
 ## About Me
